@@ -1,11 +1,16 @@
-# Introdução ao Git/Github (Projeto de primeiro repositório da Dio).
-Projeto de desenvolvimento do primeiro repositório da Dio, utilizando a aula de introdução ao Git/Github como exemplo.
+# Livro de receitas (Projeto de primeiro repositório da Dio).
+Projeto de desenvolvimento do primeiro repositório da Dio, utilizando um livro de receitas como exemplo.
 ## Conteúdos:
 <ol>
   <li>
-    1
+    Receita: Bolo de Cenoura
     </li>
+  
   <li>
-    2
-  </li>
+    Receita: Macarrão ao Alho
+    </li>
+  
+   <li>
+    Receita: Arroz Branco
+    </li>
   </ol>
