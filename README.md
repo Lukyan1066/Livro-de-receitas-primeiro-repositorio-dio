@@ -5,6 +5,7 @@ Projeto de desenvolvimento do primeiro repositório da Dio, utilizando a aula de
   <li>
     1
     </li>
+  <li>
     2
   </li>
   </ol>
